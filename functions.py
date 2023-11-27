@@ -14,4 +14,3 @@ def write_todos(todos_arg, filepath=FILEPATH):
         file_local.writelines(todos_arg)
 
 
-print("hello from functions")

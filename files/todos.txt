@@ -1,5 +1,8 @@
 shower
-fix
-prepare
 play basketball
-go to gymplay tennis
+play squash
+play tennis 1
+fix
+play soccer
+play volleyball
+stay home

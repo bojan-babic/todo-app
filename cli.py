@@ -33,8 +33,10 @@ while True:
 
         #new_todos = [item.strip('\n') for item in todos]
 
+        backslash_char = '\n'
+
         for index, item in enumerate(todos):
-            row = f"{index+1}- {item.strip('\n')}"
+            row = f"{index+1}- {item.strip(backslash_char)}"
             print(row)
         print("Length: ", len(todos))
     elif user_action.startswith('edit'):

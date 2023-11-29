@@ -2,3 +2,4 @@ shower
 fix
 prepare
 play basketball
+go to gymplay tennis

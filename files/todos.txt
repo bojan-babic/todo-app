@@ -5,3 +5,4 @@ play tennis
 play soccer
 play volleyball
 stay home
+go out

@@ -1,8 +1,7 @@
-shower
+take a shower
 play basketball
 play squash
-play tennis 1
-fix
+play tennis
 play soccer
 play volleyball
 stay home

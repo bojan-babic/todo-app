@@ -3,7 +3,7 @@ import PySimpleGUI as sg
 import time
 import os
 
-#creating file todos if it doesn't exists
+# creating file todos if it doesn't exists
 if not os.path.exists("files/todos.txt"):
     with open("files/todos.txt", 'w') as file:
         pass
